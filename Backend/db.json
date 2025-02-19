@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "31ca",
+      "username": "Admin",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "phoneno": "8228091452",
+      "gender": "male",
+      "dob": "2025-01-10",
+      "agreement": true
+    },
+    {
+      "id": "3f11",
+      "username": "Amarjeet ",
+      "email": "akamarjeetkumar495@gmail.com",
+      "password": "12234",
+      "phoneno": "8002772319",
+      "gender": "male",
+      "dob": "2003-05-05",
+      "agreement": true
+    },
+    {
+      "id": "94a8",
+      "username": "Amarjeet kumar",
+      "email": "amarjeetkumar@gmail.com",
+      "password": "1111",
+      "phoneno": "8002772319",
+      "gender": "male",
+      "dob": "2003-05-05",
+      "agreement": true
+    }
+  ]
+}

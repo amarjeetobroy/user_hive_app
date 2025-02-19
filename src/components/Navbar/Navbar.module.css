@@ -1,0 +1,30 @@
+#nav{
+    height: 70px;
+    width: 100%;
+    background-color: rgb(10, 10, 10);
+    color: whitesmoke;
+    padding: 5px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#nav>figure{
+    height: 100%;
+    width: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#nav>figure>img{
+    height: 100%;
+    cursor: pointer;
+}
+#nav>ul{
+    display: flex;
+    gap: 20px;
+    padding: 5px 10px;
+    align-items: center;
+}
+#nav>ul>li{
+    text-transform: capitalize;
+}
